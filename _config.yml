@@ -12,7 +12,7 @@ title                    : "Paul Houssel"
 title_separator          : "-"
 name                     : &name "Paul Houssel"
 description              : &description "personal description"
-url                      : http://houssel.fr # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://houssel.fr
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
