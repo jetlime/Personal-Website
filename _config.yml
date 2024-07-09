@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Paul Houssel"
 title_separator          : "-"
-name                     : &name "Paul Houssel"
+name                     : &name "Paul R. B. Houssel"
 description              : &description "personal description"
 url                      : https://houssel.fr
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Paul Houssel"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Msc. in Cybersecurity"
   employer         : "Institut Polytechnique de Paris"
   email            : "paul.houssel@ip-paris.fr" 
 
@@ -208,9 +208,9 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
+      author_profile: false
+      share: false
+      comments: false
   # _portfolio
   - scope:
       path: ""
